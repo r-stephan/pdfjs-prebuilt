@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/r-stephan/pdfjs-prebuilt.git"
+    "url": "git@github.com:r-stephan/pdfjs-prebuilt.git"
   },
   "keywords": [
     "pdf.js",
