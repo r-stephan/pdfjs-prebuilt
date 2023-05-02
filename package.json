@@ -1,0 +1,24 @@
+{
+  "name": "pdfjs-prebuilt",
+  "version": "3.5.141",
+  "description": "Prebuild PDF.js from mozilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/r-stephan/pdfjs-prebuilt.git"
+  },
+  "keywords": [
+    "pdf.js",
+    "pdf",
+    "pdf-viewer"
+  ],
+  "author": "Stephane Mada",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/r-stephan/pdfjs-prebuilt/issues"
+  },
+  "homepage": "https://github.com/r-stephan/pdfjs-prebuilt#readme"
+}
